@@ -8,7 +8,30 @@
 @media screen and (max-width:640px){
    body{
         background-color: red;
+        font-family: 'M PLUS Rounded 1c', sans-serif;
        }
+}
+
+header{
+     padding: 10px;
+     text-align: center;
+     background-color: pink;
+}
+
+section{
+     padding: 10px;
+     background-color: orange;
+}
+
+aside{
+   padding: 10px;
+   background-color: yellow;
+}
+
+footer{
+    padding: 10px;
+    background-color: yellowgreen;
+    text-align: center;
 }
 
 @media screen and (min-width:641px) and (max-width:980px){
